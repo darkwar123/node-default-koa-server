@@ -1,6 +1,6 @@
 {
   "name": "default-koa-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default Koa.js server",
   "main": "index.js",
   "directories": {
@@ -23,6 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "debug": "^2.5.2",
+    "flatten": "^1.0.2",
     "koa": "^2.5.1",
     "koa-bodyparser": "^4.2.1",
     "koa-bunyan": "^1.0.1",
