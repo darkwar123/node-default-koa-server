@@ -1,6 +1,6 @@
 {
   "name": "default-koa-server",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Default Koa.js server",
   "main": "index.js",
   "directories": {
